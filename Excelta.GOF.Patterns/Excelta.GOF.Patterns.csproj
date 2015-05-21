@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{839A0D3E-840A-4C43-988A-38C69B8E7789}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Excelta.GOF.Patterns</RootNamespace>
+    <AssemblyName>Excelta.GOF.Patterns</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Behavioral\IteratorPattern\AbstractAggregate.cs" />
+    <Compile Include="Behavioral\IteratorPattern\CountriesAggregate.cs" />
+    <Compile Include="Behavioral\IteratorPattern\CountriesIterator.cs" />
+    <Compile Include="Behavioral\IteratorPattern\Country.cs" />
+    <Compile Include="Behavioral\IteratorPattern\CountryType.cs" />
+    <Compile Include="Behavioral\IteratorPattern\IIterable.cs" />
+    <Compile Include="Behavioral\IteratorPattern\Iterator.cs" />
+    <Compile Include="Behavioral\ObserverPattern\CalcViewObserver.cs" />
+    <Compile Include="Behavioral\ObserverPattern\CalcViewSubject.cs" />
+    <Compile Include="Behavioral\ObserverPattern\CalcViewTypes.cs" />
+    <Compile Include="Behavioral\ObserverPattern\Demo\BaseDeviseSubject.cs" />
+    <Compile Include="Behavioral\ObserverPattern\Demo\DeviseState.cs" />
+    <Compile Include="Behavioral\ObserverPattern\Demo\EuroDecreaseObserver.cs" />
+    <Compile Include="Behavioral\ObserverPattern\Demo\EuroDevise.cs" />
+    <Compile Include="Behavioral\ObserverPattern\Demo\IDeviseObserver.cs" />
+    <Compile Include="Behavioral\ObserverPattern\Demo\EuroIncreaseObserver.cs" />
+    <Compile Include="Behavioral\ObserverPattern\Observer.cs" />
+    <Compile Include="Behavioral\ObserverPattern\ObserverComparer.cs" />
+    <Compile Include="Behavioral\ObserverPattern\Subject.cs" />
+    <Compile Include="Creational\AbstractFactoryPattern\ApplicationInterfaceFactory.cs" />
+    <Compile Include="Creational\AbstractFactoryPattern\ShadowStyleInterfaceFactory.cs" />
+    <Compile Include="Creational\AbstractFactoryPattern\StandardInterfaceFactory.cs" />
+    <Compile Include="Creational\AdapterPattern\ComplexPoint.cs" />
+    <Compile Include="Creational\AdapterPattern\ComplexPointAdapter.cs" />
+    <Compile Include="Creational\AdapterPattern\PolarPoint.cs" />
+    <Compile Include="Creational\SingletonPattern\Account.cs" />
+    <Compile Include="Creational\SingletonPattern\Bank.cs" />
+    <Compile Include="Creational\SingletonPattern\NumberedAccount.cs" />
+    <Compile Include="Behavioral\VisitorPattern\AssignementNode.cs" />
+    <Compile Include="Behavioral\VisitorPattern\Node.cs" />
+    <Compile Include="Behavioral\VisitorPattern\NodeVisitor.cs" />
+    <Compile Include="Behavioral\VisitorPattern\OperationNode.cs" />
+    <Compile Include="Behavioral\VisitorPattern\OperationPerformingVisitor.cs" />
+    <Compile Include="Behavioral\VisitorPattern\PrimitiveTypes.cs" />
+    <Compile Include="Behavioral\VisitorPattern\ReferenceNode.cs" />
+    <Compile Include="Behavioral\VisitorPattern\TestOperationEvaluation\OperationEvaluationMock.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Structural\Bridge\StandardWindow.cs" />
+    <Compile Include="Structural\Bridge\StandardWindowImplementor.cs" />
+    <Compile Include="Structural\Bridge\Window.cs" />
+    <Compile Include="Structural\Bridge\Window3D.cs" />
+    <Compile Include="Structural\Bridge\Window3DImplementor.cs" />
+    <Compile Include="Structural\Bridge\WindowImplementor.cs" />
+    <Compile Include="Structural\Composite\BodyTag.cs" />
+    <Compile Include="Structural\Composite\KeyValuePair.cs" />
+    <Compile Include="Structural\Composite\LITag.cs" />
+    <Compile Include="Structural\Composite\Tag.cs" />
+    <Compile Include="Structural\Composite\ULTag.cs" />
+    <Compile Include="Structural\Strategy\ITaxManager.cs" />
+    <Compile Include="Structural\Strategy\ITSARLTax.cs" />
+    <Compile Include="Structural\Strategy\MILKSARLTax.cs" />
+    <Compile Include="Structural\Strategy\Society.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Behavioral\PrototypePattern\" />
+    <Folder Include="Behavioral\ProxyPattern\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Behavioral\VisitorPattern\OperationEvaluationExample.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Behavioral\VisitorPattern\ClassDiagram1.cd" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

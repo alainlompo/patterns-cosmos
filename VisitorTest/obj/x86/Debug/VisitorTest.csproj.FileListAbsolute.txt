@@ -1,0 +1,14 @@
+C:\Excelta\Business\Patterns.Cosmos\Patterns.Cosmos\VisitorTest\bin\Debug\VisitorTest.exe
+C:\Excelta\Business\Patterns.Cosmos\Patterns.Cosmos\VisitorTest\bin\Debug\VisitorTest.pdb
+C:\Excelta\Business\Patterns.Cosmos\Patterns.Cosmos\VisitorTest\bin\Debug\Excelta.GOF.Patterns.dll
+C:\Excelta\Business\Patterns.Cosmos\Patterns.Cosmos\VisitorTest\bin\Debug\Excelta.GOF.Patterns.pdb
+C:\Excelta\Business\Patterns.Cosmos\Patterns.Cosmos\VisitorTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Excelta\Business\Patterns.Cosmos\Patterns.Cosmos\VisitorTest\obj\x86\Debug\VisitorTest.exe
+C:\Excelta\Business\Patterns.Cosmos\Patterns.Cosmos\VisitorTest\obj\x86\Debug\VisitorTest.pdb
+C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\VisitorTest\obj\x86\Debug\VisitorTest.exe
+C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\VisitorTest\obj\x86\Debug\VisitorTest.pdb
+C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\VisitorTest\bin\Debug\VisitorTest.exe
+C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\VisitorTest\bin\Debug\VisitorTest.pdb
+C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\VisitorTest\bin\Debug\Excelta.GOF.Patterns.dll
+C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\VisitorTest\bin\Debug\Excelta.GOF.Patterns.pdb
+C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\VisitorTest\obj\x86\Debug\VisitorTest.csprojResolveAssemblyReference.cache

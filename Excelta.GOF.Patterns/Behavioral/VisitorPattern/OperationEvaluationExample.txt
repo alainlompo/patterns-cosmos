@@ -1,0 +1,50 @@
+﻿5*3/2%3
+= 5 * (3/2%3)
+= 5 * (3 / (2%3) )
+= 5 * (3 / (2) )
+= 5 * (1)
+= 5
+
+Resultat = Node_1L <<*>> Resultat(Node_1R)
+Node_1
+======
+Node_1L= 5  
+Node_1R = 3/2%3
+Value="*"
+
+Node_1L
+=======
+Node_1L_L:null;
+Node_1L_R:null;
+Value="5"
+
+Node_1R
+=======
+Node_1R_L= 3
+Node_1R_R= 2%3
+Value="/"
+
+Node_1R_L
+=========
+Node_1R_L_L =null;
+Node_1R_L_R = null;
+Value="3"
+
+Node_1R_R
+=========
+Node_1R_R_L = 2;
+Node_1R_R_R = 3;
+Value="%"
+
+Node_1R_R_L
+===========
+Node_1R_R_L_L=null;
+Node_1R_R_L_R=null;
+Value = 2;
+
+Node_1R_R_R
+===========
+Node_1R_R_R_L=null;
+Node_1R_R_R_R=null;
+Value = 3;
+

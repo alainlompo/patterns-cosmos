@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Excelta.GOF.Patterns.Behavioral.VisitorPattern.Node">
+    <Position X="0.5" Y="1" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AoAAEAAQAAAAAAAAEAAABAAgAAABAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Behavioral\VisitorPattern\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Excelta.GOF.Patterns.Behavioral.VisitorPattern.NodeVisitor">
+    <Position X="5.5" Y="1" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAgAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Behavioral\VisitorPattern\NodeVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Excelta.GOF.Patterns.Behavioral.VisitorPattern.OperationNode">
+    <Position X="0.75" Y="5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AoAAAAAQAAAAAAAAEAAAAAAgAAABAAAAAYABAAAAAAA=</HashCode>
+      <FileName>Behavioral\VisitorPattern\OperationNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Excelta.GOF.Patterns.Behavioral.VisitorPattern.OperationPerformingVisitor">
+    <Position X="5.5" Y="3.5" Width="3.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="Excelta.GOF.Patterns.Behavioral.VisitorPattern.OperationPerformingVisitor.ArithmeticDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Behavioral\VisitorPattern\OperationPerformingVisitor.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAQBAAAgAAAAgAAgBAAAgAABAAACAAAQAA=</HashCode>
+      <FileName>Behavioral\VisitorPattern\OperationPerformingVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

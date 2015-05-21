@@ -1,0 +1,14 @@
+C:\Excelta\Business\Patterns.Cosmos\Patterns.Cosmos\CountriesTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Excelta\Business\Patterns.Cosmos\Patterns.Cosmos\CountriesTest\bin\Debug\CountriesTest.exe
+C:\Excelta\Business\Patterns.Cosmos\Patterns.Cosmos\CountriesTest\bin\Debug\CountriesTest.pdb
+C:\Excelta\Business\Patterns.Cosmos\Patterns.Cosmos\CountriesTest\bin\Debug\Excelta.GOF.Patterns.dll
+C:\Excelta\Business\Patterns.Cosmos\Patterns.Cosmos\CountriesTest\bin\Debug\Excelta.GOF.Patterns.pdb
+C:\Excelta\Business\Patterns.Cosmos\Patterns.Cosmos\CountriesTest\obj\x86\Debug\CountriesTest.exe
+C:\Excelta\Business\Patterns.Cosmos\Patterns.Cosmos\CountriesTest\obj\x86\Debug\CountriesTest.pdb
+C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\CountriesTest\bin\Debug\CountriesTest.exe
+C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\CountriesTest\bin\Debug\CountriesTest.pdb
+C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\CountriesTest\bin\Debug\Excelta.GOF.Patterns.dll
+C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\CountriesTest\bin\Debug\Excelta.GOF.Patterns.pdb
+C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\CountriesTest\obj\x86\Debug\CountriesTest.csprojResolveAssemblyReference.cache
+C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\CountriesTest\obj\x86\Debug\CountriesTest.exe
+C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\CountriesTest\obj\x86\Debug\CountriesTest.pdb

@@ -1,0 +1,5 @@
+﻿1. Implémenter CalcEngine abstrait
+2. Implementer StandardCalcEngine
+3. Implementer les autres calc engines
+4. Implémenter les vues
+5. Implémenter le(s) contrôleur(s)

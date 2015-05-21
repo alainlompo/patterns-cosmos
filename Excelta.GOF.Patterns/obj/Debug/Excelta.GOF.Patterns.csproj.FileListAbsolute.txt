@@ -1,0 +1,9 @@
+C:\Excelta\Business\Patterns.Cosmos\Patterns.Cosmos\Excelta.GOF.Patterns\bin\Debug\Excelta.GOF.Patterns.dll
+C:\Excelta\Business\Patterns.Cosmos\Patterns.Cosmos\Excelta.GOF.Patterns\bin\Debug\Excelta.GOF.Patterns.pdb
+C:\Excelta\Business\Patterns.Cosmos\Patterns.Cosmos\Excelta.GOF.Patterns\obj\Debug\ResolveAssemblyReference.cache
+C:\Excelta\Business\Patterns.Cosmos\Patterns.Cosmos\Excelta.GOF.Patterns\obj\Debug\Excelta.GOF.Patterns.dll
+C:\Excelta\Business\Patterns.Cosmos\Patterns.Cosmos\Excelta.GOF.Patterns\obj\Debug\Excelta.GOF.Patterns.pdb
+C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\Excelta.GOF.Patterns\bin\Debug\Excelta.GOF.Patterns.dll
+C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\Excelta.GOF.Patterns\bin\Debug\Excelta.GOF.Patterns.pdb
+C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\Excelta.GOF.Patterns\obj\Debug\Excelta.GOF.Patterns.dll
+C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\Excelta.GOF.Patterns\obj\Debug\Excelta.GOF.Patterns.pdb

@@ -1,0 +1,9 @@
+C:\Excelta\Business\Patterns.Cosmos\Patterns.Cosmos\StringTest\bin\Debug\StringTest.exe
+C:\Excelta\Business\Patterns.Cosmos\Patterns.Cosmos\StringTest\bin\Debug\StringTest.pdb
+C:\Excelta\Business\Patterns.Cosmos\Patterns.Cosmos\StringTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Excelta\Business\Patterns.Cosmos\Patterns.Cosmos\StringTest\obj\x86\Debug\StringTest.exe
+C:\Excelta\Business\Patterns.Cosmos\Patterns.Cosmos\StringTest\obj\x86\Debug\StringTest.pdb
+C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\StringTest\bin\Debug\StringTest.exe
+C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\StringTest\bin\Debug\StringTest.pdb
+C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\StringTest\obj\x86\Debug\StringTest.exe
+C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\StringTest\obj\x86\Debug\StringTest.pdb
