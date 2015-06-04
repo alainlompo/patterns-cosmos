@@ -7,3 +7,7 @@ C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\Excelta.Genera
 C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\Excelta.General.Patterns\bin\Debug\Excelta.General.Patterns.pdb
 C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\Excelta.General.Patterns\obj\Debug\Excelta.General.Patterns.dll
 C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\Excelta.General.Patterns\obj\Debug\Excelta.General.Patterns.pdb
+C:\Hypernovae\Technical\repositories\patterns-cosmos\Excelta.General.Patterns\bin\Debug\Excelta.General.Patterns.dll
+C:\Hypernovae\Technical\repositories\patterns-cosmos\Excelta.General.Patterns\bin\Debug\Excelta.General.Patterns.pdb
+C:\Hypernovae\Technical\repositories\patterns-cosmos\Excelta.General.Patterns\obj\Debug\Excelta.General.Patterns.dll
+C:\Hypernovae\Technical\repositories\patterns-cosmos\Excelta.General.Patterns\obj\Debug\Excelta.General.Patterns.pdb

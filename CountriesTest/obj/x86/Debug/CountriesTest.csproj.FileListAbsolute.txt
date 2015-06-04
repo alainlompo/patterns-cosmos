@@ -12,3 +12,10 @@ C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\CountriesTest\
 C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\CountriesTest\obj\x86\Debug\CountriesTest.csprojResolveAssemblyReference.cache
 C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\CountriesTest\obj\x86\Debug\CountriesTest.exe
 C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\CountriesTest\obj\x86\Debug\CountriesTest.pdb
+C:\Hypernovae\Technical\repositories\patterns-cosmos\CountriesTest\obj\x86\Debug\CountriesTest.csprojResolveAssemblyReference.cache
+C:\Hypernovae\Technical\repositories\patterns-cosmos\CountriesTest\obj\x86\Debug\CountriesTest.pdb
+C:\Hypernovae\Technical\repositories\patterns-cosmos\CountriesTest\bin\Debug\CountriesTest.exe
+C:\Hypernovae\Technical\repositories\patterns-cosmos\CountriesTest\bin\Debug\CountriesTest.pdb
+C:\Hypernovae\Technical\repositories\patterns-cosmos\CountriesTest\bin\Debug\Excelta.GOF.Patterns.dll
+C:\Hypernovae\Technical\repositories\patterns-cosmos\CountriesTest\bin\Debug\Excelta.GOF.Patterns.pdb
+C:\Hypernovae\Technical\repositories\patterns-cosmos\CountriesTest\obj\x86\Debug\CountriesTest.exe

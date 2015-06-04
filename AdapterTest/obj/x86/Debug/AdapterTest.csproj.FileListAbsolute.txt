@@ -12,3 +12,10 @@ C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\AdapterTest\bi
 C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\AdapterTest\obj\x86\Debug\AdapterTest.csprojResolveAssemblyReference.cache
 C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\AdapterTest\obj\x86\Debug\AdapterTest.exe
 C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\AdapterTest\obj\x86\Debug\AdapterTest.pdb
+C:\Hypernovae\Technical\repositories\patterns-cosmos\AdapterTest\obj\x86\Debug\AdapterTest.csprojResolveAssemblyReference.cache
+C:\Hypernovae\Technical\repositories\patterns-cosmos\AdapterTest\obj\x86\Debug\AdapterTest.pdb
+C:\Hypernovae\Technical\repositories\patterns-cosmos\AdapterTest\bin\Debug\AdapterTest.exe
+C:\Hypernovae\Technical\repositories\patterns-cosmos\AdapterTest\bin\Debug\AdapterTest.pdb
+C:\Hypernovae\Technical\repositories\patterns-cosmos\AdapterTest\bin\Debug\Excelta.GOF.Patterns.dll
+C:\Hypernovae\Technical\repositories\patterns-cosmos\AdapterTest\bin\Debug\Excelta.GOF.Patterns.pdb
+C:\Hypernovae\Technical\repositories\patterns-cosmos\AdapterTest\obj\x86\Debug\AdapterTest.exe

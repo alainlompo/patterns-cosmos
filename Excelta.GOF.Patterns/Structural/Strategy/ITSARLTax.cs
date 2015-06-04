@@ -9,9 +9,6 @@ namespace Excelta.GOF.Patterns.Structural.Strategy
     {
         private readonly double _taxRate = 0.20d;
 
-
-       
-
         public double ComputeTax(double volumeOfMoney)
         {
             return  _taxRate * volumeOfMoney;

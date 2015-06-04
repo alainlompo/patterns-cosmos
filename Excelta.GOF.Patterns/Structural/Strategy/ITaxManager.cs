@@ -7,7 +7,6 @@ namespace Excelta.GOF.Patterns.Structural.Strategy
 {
     public interface ITaxManager
     {
-      
          double ComputeTax(double volumeOfMoney);
     }
 }

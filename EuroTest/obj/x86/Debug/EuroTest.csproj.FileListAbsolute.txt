@@ -12,3 +12,10 @@ C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\EuroTest\bin\D
 C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\EuroTest\obj\x86\Debug\EuroTest.csprojResolveAssemblyReference.cache
 C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\EuroTest\obj\x86\Debug\EuroTest.exe
 C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\EuroTest\obj\x86\Debug\EuroTest.pdb
+C:\Hypernovae\Technical\repositories\patterns-cosmos\EuroTest\obj\x86\Debug\EuroTest.csprojResolveAssemblyReference.cache
+C:\Hypernovae\Technical\repositories\patterns-cosmos\EuroTest\obj\x86\Debug\EuroTest.pdb
+C:\Hypernovae\Technical\repositories\patterns-cosmos\EuroTest\bin\Debug\EuroTest.exe
+C:\Hypernovae\Technical\repositories\patterns-cosmos\EuroTest\bin\Debug\EuroTest.pdb
+C:\Hypernovae\Technical\repositories\patterns-cosmos\EuroTest\bin\Debug\Excelta.GOF.Patterns.dll
+C:\Hypernovae\Technical\repositories\patterns-cosmos\EuroTest\bin\Debug\Excelta.GOF.Patterns.pdb
+C:\Hypernovae\Technical\repositories\patterns-cosmos\EuroTest\obj\x86\Debug\EuroTest.exe

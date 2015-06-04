@@ -46,8 +46,6 @@ namespace Excelta.GOF.Patterns.Structural.Composite
         }
 
 
-
-
         #region Properties
         public string Name
         {
@@ -91,10 +89,6 @@ namespace Excelta.GOF.Patterns.Structural.Composite
 
         
         #endregion
-
-
-
-
 
     }
 }

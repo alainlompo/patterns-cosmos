@@ -7,3 +7,7 @@ C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\StringTest\bin
 C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\StringTest\bin\Debug\StringTest.pdb
 C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\StringTest\obj\x86\Debug\StringTest.exe
 C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\StringTest\obj\x86\Debug\StringTest.pdb
+C:\Hypernovae\Technical\repositories\patterns-cosmos\StringTest\bin\Debug\StringTest.exe
+C:\Hypernovae\Technical\repositories\patterns-cosmos\StringTest\bin\Debug\StringTest.pdb
+C:\Hypernovae\Technical\repositories\patterns-cosmos\StringTest\obj\x86\Debug\StringTest.exe
+C:\Hypernovae\Technical\repositories\patterns-cosmos\StringTest\obj\x86\Debug\StringTest.pdb

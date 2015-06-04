@@ -12,3 +12,10 @@ C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\VisitorTest\bi
 C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\VisitorTest\bin\Debug\Excelta.GOF.Patterns.dll
 C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\VisitorTest\bin\Debug\Excelta.GOF.Patterns.pdb
 C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\VisitorTest\obj\x86\Debug\VisitorTest.csprojResolveAssemblyReference.cache
+C:\Hypernovae\Technical\repositories\patterns-cosmos\VisitorTest\obj\x86\Debug\VisitorTest.exe
+C:\Hypernovae\Technical\repositories\patterns-cosmos\VisitorTest\obj\x86\Debug\VisitorTest.pdb
+C:\Hypernovae\Technical\repositories\patterns-cosmos\VisitorTest\obj\x86\Debug\VisitorTest.csprojResolveAssemblyReference.cache
+C:\Hypernovae\Technical\repositories\patterns-cosmos\VisitorTest\bin\Debug\VisitorTest.exe
+C:\Hypernovae\Technical\repositories\patterns-cosmos\VisitorTest\bin\Debug\VisitorTest.pdb
+C:\Hypernovae\Technical\repositories\patterns-cosmos\VisitorTest\bin\Debug\Excelta.GOF.Patterns.dll
+C:\Hypernovae\Technical\repositories\patterns-cosmos\VisitorTest\bin\Debug\Excelta.GOF.Patterns.pdb

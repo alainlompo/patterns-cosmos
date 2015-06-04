@@ -68,6 +68,14 @@
     <Compile Include="Creational\AdapterPattern\ComplexPoint.cs" />
     <Compile Include="Creational\AdapterPattern\ComplexPointAdapter.cs" />
     <Compile Include="Creational\AdapterPattern\PolarPoint.cs" />
+    <Compile Include="Creational\FactoryPattern\Car.cs" />
+    <Compile Include="Creational\FactoryPattern\CarFactory.cs" />
+    <Compile Include="Creational\FactoryPattern\CarType.cs" />
+    <Compile Include="Creational\FactoryPattern\FiatGT1.cs" />
+    <Compile Include="Creational\FactoryPattern\IAccelerable.cs" />
+    <Compile Include="Creational\FactoryPattern\IStartable.cs" />
+    <Compile Include="Creational\FactoryPattern\PoloRWRC.cs" />
+    <Compile Include="Creational\FactoryPattern\SnowSpeeder.cs" />
     <Compile Include="Creational\SingletonPattern\Account.cs" />
     <Compile Include="Creational\SingletonPattern\Bank.cs" />
     <Compile Include="Creational\SingletonPattern\NumberedAccount.cs" />

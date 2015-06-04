@@ -19,3 +19,13 @@ C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\BridgeTest\obj
 C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\BridgeTest\obj\x86\Debug\BridgeTest.csproj.GenerateResource.Cache
 C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\BridgeTest\obj\x86\Debug\BridgeTest.exe
 C:\Hypernovae\Technical\RD\All_CS\Patterns.Cosmos\Patterns.Cosmos\BridgeTest\obj\x86\Debug\BridgeTest.pdb
+C:\Hypernovae\Technical\repositories\patterns-cosmos\BridgeTest\obj\x86\Debug\BridgeTest.csprojResolveAssemblyReference.cache
+C:\Hypernovae\Technical\repositories\patterns-cosmos\BridgeTest\obj\x86\Debug\BridgeTest.Form1.resources
+C:\Hypernovae\Technical\repositories\patterns-cosmos\BridgeTest\obj\x86\Debug\BridgeTest.Properties.Resources.resources
+C:\Hypernovae\Technical\repositories\patterns-cosmos\BridgeTest\obj\x86\Debug\BridgeTest.csproj.GenerateResource.Cache
+C:\Hypernovae\Technical\repositories\patterns-cosmos\BridgeTest\obj\x86\Debug\BridgeTest.pdb
+C:\Hypernovae\Technical\repositories\patterns-cosmos\BridgeTest\bin\Debug\BridgeTest.exe
+C:\Hypernovae\Technical\repositories\patterns-cosmos\BridgeTest\bin\Debug\BridgeTest.pdb
+C:\Hypernovae\Technical\repositories\patterns-cosmos\BridgeTest\bin\Debug\Excelta.GOF.Patterns.dll
+C:\Hypernovae\Technical\repositories\patterns-cosmos\BridgeTest\bin\Debug\Excelta.GOF.Patterns.pdb
+C:\Hypernovae\Technical\repositories\patterns-cosmos\BridgeTest\obj\x86\Debug\BridgeTest.exe
